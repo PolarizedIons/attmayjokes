@@ -3,7 +3,7 @@ const quotes = [
     "You hear a knock at the door. You open it. No one is there. It's just a faucet with a basin. Let that sink in.",
     "Yoshi invited me to a party and I asked what he wanted me to bring. I offered beer, but he said... brrrring POP!",
     "You know what Yoda said when he saw himself in 1080p for the first time? HD M I",
-    "I was kidnapped my a group of mimes and they did unspeakable things!",
+    "I was kidnapped by a group of mimes and they did unspeakable things!",
     "There's a fine line between a numerator and a denominator.",
     "Thank you for spending the time to teach me the meaning of \"many\". It means a lot.",
     "I have found that you can't trust atoms. They make up everything!",
