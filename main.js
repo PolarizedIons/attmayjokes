@@ -31,4 +31,3 @@ const rerollQuote = () => {
     el.innerText = quotes[Math.floor(quotes.length * Math.random())];
 }
 el.onclick = rerollQuote;
-rerollQuote();
