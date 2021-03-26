@@ -1,0 +1,39 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 100vh;
+    background: #131313;
+    color: #efefef;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+main {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.message {
+    display: flex;
+    padding: 1rem 0;
+    border-radius: 1.25rem 1.25rem 1.25rem 0.25rem;
+    background: #2f3136;
+    max-width: 30vw;
+}
+
+#quote {
+    padding: 0 1rem;
+}
+
+.profile {
+    margin: 0 1rem;
+    background: #006666;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 100%;
+}
