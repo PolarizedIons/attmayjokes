@@ -26,8 +26,14 @@ const quotes = [
     "That's a nice ham you got there. It'd be a shame if you put an 's' on one end and an 'e' on the other."
 ];
 
-const el = document.getElementById("quote");
+const quoteEl = document.getElementById("quote");
+const timeEl = document.getElementById("now");
 const rerollQuote = () => {
-    el.innerText = quotes[Math.floor(quotes.length * Math.random())];
+    quoteEl.innerText = quotes[Math.floor(quotes.length * Math.random())];
+
+    const now = new Date();
+    timeEl.innerText = `Today at ${now.getHours()}:${now.getMinutes()}`
 }
-el.onclick = rerollQuote;
+
+quoteEl.onclick = rerollQuote;
+rerollQuote();
