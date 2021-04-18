@@ -23,7 +23,8 @@ const quotes = [
     "My friend got fired from the calendar printing company for taking a month off... :( ",
     "That was the most emotional wedding ever. Even the cake was in tiers!",
     "I heard the guy who won the ski race was actually on a sled... but they let it slide!",
-    "That's a nice ham you got there. It'd be a shame if you put an 's' on one end and an 'e' on the other."
+    "That's a nice ham you got there. It'd be a shame if you put an 's' on one end and an 'e' on the other.",
+    "I had a dream last night that I was a muffler... I woke up exhausted!",
 ];
 
 const quoteEl = document.getElementById("quote");
