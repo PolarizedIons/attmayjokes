@@ -26,6 +26,7 @@ const quotes = [
     "That's a nice ham you got there. It'd be a shame if you put an 's' on one end and an 'e' on the other.",
     "I had a dream last night that I was a muffler... I woke up exhausted!",
     "I never wanted to believe that my dad was stealing from his job as a road worker, but when I got home, all the signs were there.",
+    "I just learned about a 12 inch tall king. He was a terrible leader... but he made a great ruler!",
 ];
 
 const quoteEl = document.getElementById("quote");
