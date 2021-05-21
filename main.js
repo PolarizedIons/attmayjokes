@@ -27,6 +27,7 @@ const quotes = [
     "I had a dream last night that I was a muffler... I woke up exhausted!",
     "I never wanted to believe that my dad was stealing from his job as a road worker, but when I got home, all the signs were there.",
     "I just learned about a 12 inch tall king. He was a terrible leader... but he made a great ruler!",
+    "Butane is lighter than water. After all, butane is a lighter fluid.",
 ];
 
 const quoteEl = document.getElementById("quote");
