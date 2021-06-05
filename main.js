@@ -28,6 +28,7 @@ const quotes = [
     "I never wanted to believe that my dad was stealing from his job as a road worker, but when I got home, all the signs were there.",
     "I just learned about a 12 inch tall king. He was a terrible leader... but he made a great ruler!",
     "Butane is lighter than water. After all, butane is a lighter fluid.",
+    "The Lego store just reopened after closing during lockdown. People are lined up for blocks!", 
 ];
 
 const quoteEl = document.getElementById("quote");
