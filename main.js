@@ -30,6 +30,7 @@ const quotes = [
     "Butane is lighter than water. After all, butane is a lighter fluid.",
     "The Lego store just reopened after closing during lockdown. People are lined up for blocks!",
     "I keep asking my friends what LGBTQ+ means, but I can't get a straight answer.",
+    "I kept thinking my printer was playing music... And I finally realized the paper was jamming!",
 ];
 
 const quoteEl = document.getElementById("quote");
