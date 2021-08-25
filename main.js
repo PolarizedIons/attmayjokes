@@ -31,7 +31,8 @@ const quotes = [
     "The Lego store just reopened after closing during lockdown. People are lined up for blocks!",
     "I keep asking my friends what LGBTQ+ means, but I can't get a straight answer.",
     "I kept thinking my printer was playing music... And I finally realized the paper was jamming!",
-    "I quit my job as a treadmill tester. It just felt like I wasn’t going anywhere..."
+    "I quit my job as a treadmill tester. It just felt like I wasn’t going anywhere...",
+    "I tried to organize a professional hide and seek tournament, but it was a complete failure. Good players are hard to find.",
 ];
 
 const quoteEl = document.getElementById("quote");
