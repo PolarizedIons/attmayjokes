@@ -33,6 +33,7 @@ const quotes = [
     "I kept thinking my printer was playing music... And I finally realized the paper was jamming!",
     "I quit my job as a treadmill tester. It just felt like I wasn’t going anywhere...",
     "I tried to organize a professional hide and seek tournament, but it was a complete failure. Good players are hard to find.",
+    "The guy who stole my diary died yesterday. My thoughts are with his family.",
 ];
 
 const quoteEl = document.getElementById("quote");
