@@ -34,6 +34,7 @@ const quotes = [
     "I quit my job as a treadmill tester. It just felt like I wasn’t going anywhere...",
     "I tried to organize a professional hide and seek tournament, but it was a complete failure. Good players are hard to find.",
     "The guy who stole my diary died yesterday. My thoughts are with his family.",
+    "My Internet service provider has no data limits. No cap.",
 ];
 
 const quoteEl = document.getElementById("quote");
