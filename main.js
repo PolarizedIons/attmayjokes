@@ -35,6 +35,7 @@ const quotes = [
     "I tried to organize a professional hide and seek tournament, but it was a complete failure. Good players are hard to find.",
     "The guy who stole my diary died yesterday. My thoughts are with his family.",
     "My Internet service provider has no data limits. No cap.",
+    "To the person who cut me in line at the grocery store: I'm after you now.",
 ];
 
 const quoteEl = document.getElementById("quote");
