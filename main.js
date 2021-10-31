@@ -36,7 +36,8 @@ const quotes = [
     "The guy who stole my diary died yesterday. My thoughts are with his family.",
     "My Internet service provider has no data limits. No cap.",
     "To the person who cut me in line at the grocery store: I'm after you now.",
-    "If you rearrange the letters of \"a postal worker\"... they get really pissed off."
+    "If you rearrange the letters of \"a postal worker\"... they get really pissed off.",
+    "eBay is so useless. I tried to look up lighters and all they had was 13,749 matches.",
 ];
 
 const quoteEl = document.getElementById("quote");
