@@ -38,7 +38,8 @@ const quotes = [
     "To the person who cut me in line at the grocery store: I'm after you now.",
     "If you rearrange the letters of \"a postal worker\"... they get really pissed off.",
     "eBay is so useless. I tried to look up lighters and all they had was 13,749 matches.",
-    "Did you hear the CEO of IKEA became the Prime Minister of Sweden? He's been busy assembling his new cabinet."
+    "Did you hear the CEO of IKEA became the Prime Minister of Sweden? He's been busy assembling his new cabinet.",
+    "A new species of head lice is going around and it's resistant to treatment! That has left scientists scratching their heads.",
 ];
 
 const quoteEl = document.getElementById("quote");
