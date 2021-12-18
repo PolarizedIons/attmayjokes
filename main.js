@@ -40,6 +40,7 @@ const quotes = [
     "eBay is so useless. I tried to look up lighters and all they had was 13,749 matches.",
     "Did you hear the CEO of IKEA became the Prime Minister of Sweden? He's been busy assembling his new cabinet.",
     "A new species of head lice is going around and it's resistant to treatment! That has left scientists scratching their heads.",
+    "I wrote down my enemies on paper, and my friend used the paper to roll a joint. He’s now high on the list of people I hate.",
 ];
 
 const quoteEl = document.getElementById("quote");
