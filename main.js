@@ -41,6 +41,7 @@ const quotes = [
     "Did you hear the CEO of IKEA became the Prime Minister of Sweden? He's been busy assembling his new cabinet.",
     "A new species of head lice is going around and it's resistant to treatment! That has left scientists scratching their heads.",
     "I wrote down my enemies on paper, and my friend used the paper to roll a joint. He’s now high on the list of people I hate.",
+    "I like a lot of things about Switzerland, and the flag is a big plus!",
 ];
 
 const quoteEl = document.getElementById("quote");
