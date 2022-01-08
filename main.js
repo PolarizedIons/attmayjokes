@@ -42,6 +42,7 @@ const quotes = [
     "A new species of head lice is going around and it's resistant to treatment! That has left scientists scratching their heads.",
     "I wrote down my enemies on paper, and my friend used the paper to roll a joint. He’s now high on the list of people I hate.",
     "I like a lot of things about Switzerland, and the flag is a big plus!",
+    "I only took 10 minutes to walk to the bar, but it took me a whole hour to walk home. The difference is staggering.",
 ];
 
 const quoteEl = document.getElementById("quote");
