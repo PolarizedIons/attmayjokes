@@ -44,6 +44,7 @@ const quotes = [
     "I like a lot of things about Switzerland, and the flag is a big plus!",
     "I only took 10 minutes to walk to the bar, but it took me a whole hour to walk home. The difference is staggering.",
     "They've invented a thought-controlled air freshener. It makes scents when you think about it!",
+    "I got arrested for downloading all of Wikipedia. When I was taken into custody, I told them I could explain everything.",
 ];
 
 const quoteEl = document.getElementById("quote");
