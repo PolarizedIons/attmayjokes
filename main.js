@@ -45,6 +45,7 @@ const quotes = [
     "I only took 10 minutes to walk to the bar, but it took me a whole hour to walk home. The difference is staggering.",
     "They've invented a thought-controlled air freshener. It makes scents when you think about it!",
     "I got arrested for downloading all of Wikipedia. When I was taken into custody, I told them I could explain everything.",
+    "I have a friend who is a kleptomaniac. When it gets really bad, he takes something for it.",
 ];
 
 const quoteEl = document.getElementById("quote");
