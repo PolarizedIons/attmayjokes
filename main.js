@@ -46,6 +46,8 @@ const quotes = [
     "They've invented a thought-controlled air freshener. It makes scents when you think about it!",
     "I got arrested for downloading all of Wikipedia. When I was taken into custody, I told them I could explain everything.",
     "I have a friend who is a kleptomaniac. When it gets really bad, he takes something for it.",
+    "The inventor of the Ferris wheel and the inventor of merry-go-round never met. Seems they traveled in different circles.",
+    "Hey everyone! I invented a new word: plagiarism.",
 ];
 
 const quoteEl = document.getElementById("quote");
