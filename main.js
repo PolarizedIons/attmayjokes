@@ -48,6 +48,7 @@ const quotes = [
     "I have a friend who is a kleptomaniac. When it gets really bad, he takes something for it.",
     "The inventor of the Ferris wheel and the inventor of merry-go-round never met. Seems they traveled in different circles.",
     "Hey everyone! I invented a new word: plagiarism.",
+    "My little cousin asked \"What rhymes with orange?\" I thought about it for a while and finally said \"No, it doesn't!\"",
 ];
 
 const quoteEl = document.getElementById("quote");
