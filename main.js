@@ -49,6 +49,7 @@ const quotes = [
     "The inventor of the Ferris wheel and the inventor of merry-go-round never met. Seems they traveled in different circles.",
     "Hey everyone! I invented a new word: plagiarism.",
     "My little cousin asked \"What rhymes with orange?\" I thought about it for a while and finally said \"No, it doesn't!\"",
+    "I paid a ton for a limo and just found out it doesn't include a driver. I spent all that money and have nothing to chauffer it!",
 ];
 
 const quoteEl = document.getElementById("quote");
