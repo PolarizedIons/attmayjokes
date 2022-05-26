@@ -50,6 +50,7 @@ const quotes = [
     "Hey everyone! I invented a new word: plagiarism.",
     "My little cousin asked \"What rhymes with orange?\" I thought about it for a while and finally said \"No, it doesn't!\"",
     "I paid a ton for a limo and just found out it doesn't include a driver. I spent all that money and have nothing to chauffer it!",
+    "The doctor told me my DNA was backwards... I said: \"AND?\"",
 ];
 
 const quoteEl = document.getElementById("quote");
