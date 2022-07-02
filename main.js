@@ -52,6 +52,7 @@ const quotes = [
     "I paid a ton for a limo and just found out it doesn't include a driver. I spent all that money and have nothing to chauffer it!",
     "The doctor told me my DNA was backwards... I said: \"AND?\"",
     "I bought a book called Binary 101. I thought it would be simple, but it seems like it started 5 books in!",
+    "Earlier, my friend asked me to hand her the lipstick. I accidentally gave her a glue stick. She still isn't talking to me.",
 ];
 
 const quoteEl = document.getElementById("quote");
