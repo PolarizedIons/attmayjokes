@@ -55,6 +55,7 @@ const quotes = [
     "Earlier, my friend asked me to hand her the lipstick. I accidentally gave her a glue stick. She still isn't talking to me.",
     "I call the new guy at work ”the computer.” It's not that he's smart, rather he sleeps if left unattended for 15 minutes.",
     "I watched a documentary about how ships are made. It was riveting!",
+    "I spent the whole morning building a time machine, so that’s four hours of my life that I’m definitely getting back.",
 ];
 
 const quoteEl = document.getElementById("quote");
