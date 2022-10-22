@@ -56,7 +56,9 @@ const quotes = [
     "I call the new guy at work ”the computer.” It's not that he's smart, rather he sleeps if left unattended for 15 minutes.",
     "I watched a documentary about how ships are made. It was riveting!",
     "I spent the whole morning building a time machine, so that’s four hours of my life that I’m definitely getting back.",
+    "Did you know if you get pregnant in the Amazon, it’s next day delivery?",
     "I had an idea for a funny Discord status but I tried to write it down and my pencil broke. Now it's pointless.",
+    "I asked my favorite Indian restaurant for their secret flatbread recipe. I had to sign a naan disclosure agreement.",
 ];
 
 const quoteEl = document.getElementById("quote");
