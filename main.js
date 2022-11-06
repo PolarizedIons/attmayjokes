@@ -59,6 +59,7 @@ const quotes = [
     "Did you know if you get pregnant in the Amazon, it’s next day delivery?",
     "I had an idea for a funny Discord status but I tried to write it down and my pencil broke. Now it's pointless.",
     "I asked my favorite Indian restaurant for their secret flatbread recipe. I had to sign a naan disclosure agreement.",
+    "How do you wear a ship as a hat? Easy. Turn it upside down so it's capsized.",
 ];
 
 const quoteEl = document.getElementById("quote");
