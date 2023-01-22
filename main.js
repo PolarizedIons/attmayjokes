@@ -60,6 +60,11 @@ const quotes = [
     "I had an idea for a funny Discord status but I tried to write it down and my pencil broke. Now it's pointless.",
     "I asked my favorite Indian restaurant for their secret flatbread recipe. I had to sign a naan disclosure agreement.",
     "How do you wear a ship as a hat? Easy. Turn it upside down so it's capsized.",
+    "I heard my coworkers making fun of someone with bad posture. I have a hunch it might be me.",
+    "I talked to a customer at a helium plant. I wont take their calls again. I won't be talked to in that tone.",
+    "I saw someone fall on his driveway today. He was screaming in pain and blaming his kids. It was his own asphalt!",
+    "I just bought a set of speakers for $1!! They were cheap because the volume is stuck at the max. I couldn't turn them down!",
+    "Went to a wedding where two slices of bread got married! It all went well until someone decided to toast the bride and groom...",
 ];
 
 const quoteEl = document.getElementById("quote");
