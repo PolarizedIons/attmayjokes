@@ -65,6 +65,7 @@ const quotes = [
     "I saw someone fall on his driveway today. He was screaming in pain and blaming his kids. It was his own asphalt!",
     "I just bought a set of speakers for $1!! They were cheap because the volume is stuck at the max. I couldn't turn them down!",
     "Went to a wedding where two slices of bread got married! It all went well until someone decided to toast the bride and groom...",
+    "I had to tell my suitcase my trip was canceled and it won't stop crying. Emotional baggage is the worst.",
 ];
 
 const quoteEl = document.getElementById("quote");
