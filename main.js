@@ -67,6 +67,7 @@ const quotes = [
     "Went to a wedding where two slices of bread got married! It all went well until someone decided to toast the bride and groom...",
     "I had to tell my suitcase my trip was canceled and it won't stop crying. Emotional baggage is the worst.",
     "My psychiatrist once said I was paranoid. Well, he didn't actually say it, but I could tell he was thinking it.",
+    "You should try archery with a blindfold. You don't know what you're missing!",
 ];
 
 const quoteEl = document.getElementById("quote");
