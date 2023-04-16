@@ -68,6 +68,7 @@ const quotes = [
     "I had to tell my suitcase my trip was canceled and it won't stop crying. Emotional baggage is the worst.",
     "My psychiatrist once said I was paranoid. Well, he didn't actually say it, but I could tell he was thinking it.",
     "You should try archery with a blindfold. You don't know what you're missing!",
+    "People are usually shocked when they find out I'm not a very good electrician.",
 ];
 
 const quoteEl = document.getElementById("quote");
