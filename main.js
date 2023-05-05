@@ -69,6 +69,7 @@ const quotes = [
     "My psychiatrist once said I was paranoid. Well, he didn't actually say it, but I could tell he was thinking it.",
     "You should try archery with a blindfold. You don't know what you're missing!",
     "People are usually shocked when they find out I'm not a very good electrician.",
+    "I recently confused the words \"jacuzzi\" and \"yakuza\". Now I'm in hot water with the Japanese mafia...",
 ];
 
 const quoteEl = document.getElementById("quote");
