@@ -70,6 +70,7 @@ const quotes = [
     "You should try archery with a blindfold. You don't know what you're missing!",
     "People are usually shocked when they find out I'm not a very good electrician.",
     "I recently confused the words \"jacuzzi\" and \"yakuza\". Now I'm in hot water with the Japanese mafia...",
+    "I hate funerals. I’m just not a mourning person.",
 ];
 
 const quoteEl = document.getElementById("quote");
