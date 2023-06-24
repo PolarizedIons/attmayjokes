@@ -71,6 +71,7 @@ const quotes = [
     "People are usually shocked when they find out I'm not a very good electrician.",
     "I recently confused the words \"jacuzzi\" and \"yakuza\". Now I'm in hot water with the Japanese mafia...",
     "I hate funerals. I’m just not a mourning person.",
+    "I don't trust magazine collectors. They have too many issues.",
 ];
 
 const quoteEl = document.getElementById("quote");
